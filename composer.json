@@ -9,5 +9,18 @@
             "email": "flandera@volny.cz"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.2",
+        "phpseclib/phpseclib": "^2.0"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true,
+        "preferred-install": "dist",
+        "secure-http": false,
+        "disable-tls": true,
+        "platform": {
+            "php": "5.2.17"
+        }
+    }
 }
