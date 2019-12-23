@@ -1,5 +1,5 @@
 {
-    "name": "ignum/open_id_connect_client_52",
+    "name": "flandera/open_id_connect_client_52",
     "description": "PHP 5.2 library for connect to OpenID services",
     "type": "library",
     "license": "MIT",
