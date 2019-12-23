@@ -1,0 +1,13 @@
+{
+    "name": "ignum/open_id_connect_client_52",
+    "description": "PHP 5.2 library for connect to OpenID services",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomas Flandera",
+            "email": "flandera@volny.cz"
+        }
+    ],
+    "require": {}
+}
