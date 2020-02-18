@@ -195,7 +195,7 @@ class JumbojettOpenIDConnectClient
 			$code = $_REQUEST["code"];
 
 
-			print_r($code);
+//			print_r($code);
 
 
 			$token_json = $this->requestTokens($code);
@@ -720,8 +720,8 @@ class JumbojettOpenIDConnectClient
 	private function verifyJWTclaims($claims, $accessToken = null) {
 
 
-		print_r($claims);
-		print_r($accessToken);
+//		print_r($claims);
+//		print_r($accessToken);
 
 
 
