@@ -16,7 +16,7 @@
     "include-path": ["open_id_connect_client_52/"],
     "autoload": {
         "psr-0": {
-            "oidclient": "src/",
+            "oidclient": "src/"
         }
     },
     "config": {
